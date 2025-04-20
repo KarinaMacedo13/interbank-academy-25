@@ -3,7 +3,7 @@
 ## Introducción
 Este proyecto es una aplicación de línea de comandos (CLI) desarrollada en Node.js como parte de un reto para procesar transacciones bancarias desde un archivo CSV. El propósito es practicar lectura de archivos, manipulación de datos, cálculos simples y salida formateada en consola en Javascript(Node.js).
 
-## Instrucciones de Ejecució
+## Instrucciones de Ejecución
 ### Requisitos
 - Node.js instalado
 - Archivo CSV con estructura:
